@@ -1,2 +1,1 @@
-# webDevelopment
-This is all of my webdevelopment
+This is a private repository so I can work on my development version and commit it after testing.  Then copy the appropriate files to my web project repository or repositories to be pushed to those websites. 
