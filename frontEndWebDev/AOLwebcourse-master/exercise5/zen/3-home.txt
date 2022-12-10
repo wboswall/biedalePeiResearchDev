@@ -1,0 +1,7 @@
+Home
+
+Welcome to the renowned Mountain Zen Center, located in the beautiful Catskill Mountains of New York. We offer a wide variety of classes, lectures, and exercises, all to help you discover your own best self.
+
+Whether you’re on a day trip or signing up for a month-long retreat, our staff and facilities are here to give you an unforgettable, transcendent experience.
+
+[All pages must have at least one image. The home page should connect to index.html]

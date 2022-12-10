@@ -1,0 +1,26 @@
+/*CSS comments goes in between this comment style*/
+#header {
+	background-color: #006699;
+	color:white;
+	width: 100%;
+	padding:15px;
+}
+#menu {
+	float: left;
+	background-color: #99CCCC;
+	padding:10px;
+	margin-right:10px;
+}
+#menu a {
+	color: #000033;
+}
+ul a {
+	color:#cc0000;
+}
+#main {
+	color:#000033;
+}
+.highlight {
+	font-size:16.5px;
+  	font-weight: bolder;
+}

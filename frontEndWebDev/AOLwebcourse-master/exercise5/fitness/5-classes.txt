@@ -1,0 +1,10 @@
+Classes
+
+At our gym, you can expect the best from our classes. Our teachers combined have over 100 years of experience in fitness instruction!
+
+Mondays from 2-5pm: Future Yoga. Yoga has a long history, but we won’t confine ourselves to the past!
+Tuesdays and Thursdays, from 6-7pm: Lift This! An introduction to our gym and the equipment, tools, and attitudes that will make your fitness goals into reality!
+Fridays from 6-7am: TGIFF: Thank Goodness It’s Fitness Friday! Learn to love Fridays with our super-early fitness hour of power.
+Weekends from 6-9pm: Classical Cardio. Get your blood pumping to the subtle rhythms of Beethoven, Mozart, and Bach! Sweat to the real oldies! 
+
+[All pages must have at least one image. Experiment with list styles. Try out emphasis or span styles on this page to highlight important text. The Classes page should connect to classes.html]

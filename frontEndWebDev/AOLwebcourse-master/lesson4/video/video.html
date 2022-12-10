@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Video</title>
+		<!-- <link rel="stylesheet" type="text/css" href="css/style.css"/> -->
+		<script>
+			function playPause() {
+				var myVideo = document.getElementsByTagName('video')[0];
+				if(myVideo.paused)
+					myVideo.play();
+				else
+					myVideo.pause();
+				}
+		</script>
+	</head>
+	<body>
+		<h1>Kissing Video - Silent Version</h1>
+			<video controls poster="poster.jpg" width="320" height="240" loop>
+				<source src="Kissing.ogv" type="video/ogv" />
+				<source src="Kissing.mp4" type="video/mp4" />
+					Browser not supported.  
+			</video>
+			<input type=button onclick="playPause()" value="Play/Pause" tabindex="0"/>
+			
+	</body>
+</html>

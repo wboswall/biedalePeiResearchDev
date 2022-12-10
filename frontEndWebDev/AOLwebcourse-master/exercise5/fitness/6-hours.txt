@@ -1,0 +1,7 @@
+Hours
+
+Weekdays: 6am to 10pm.
+Weekends: 10am to midnight.
+Closed during all the usual holidays! 
+
+[All pages must have at least one image. Try out emphasis or span styles on this page to highlight important text. The Hours page should connect to hours.html]

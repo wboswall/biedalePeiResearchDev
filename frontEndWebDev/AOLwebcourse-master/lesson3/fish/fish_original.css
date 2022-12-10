@@ -1,0 +1,28 @@
+﻿h1 {
+	color: gray;
+	font: 24px Fantasy;
+	text-align:center;
+	letter-spacing: 2px;
+} 
+p {
+	font: 18px garamond;
+}
+#fish {
+	width: 200px;
+	float: left;
+	border: 1px dashed gray; 
+	background-color: #FBF7FB;
+	text-align: justify;
+	margin: 10px;
+	padding: 10px;
+} 
+#bowl {
+	width: 200px;
+	float: right;
+	border: 3px double #E9F4F5;
+	position: relative; 
+	background-color: #C5F6F9;
+	text-align: justify;
+	margin: 10px;
+	padding: 10px;
+} 

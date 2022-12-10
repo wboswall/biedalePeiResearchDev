@@ -1,0 +1,37 @@
+/*This is a comment, which his used to clarify lines of CSS code.*/
+body {
+	font-family: helvetica;
+	background-color: #34495E;
+}
+h1	{
+	font-size: 28px;
+	color: #FFFFFF;
+}
+h2, h3	{
+	font-size: 18px;
+	color: #1ABC9C;
+}
+p	{
+	font-family: verdana;
+	font-size: 14px;
+	color: #ECF0F1;
+}
+ol 	{
+	font-family: monospace;
+	color: #BDC3C7;
+}
+a 	{
+	color: #F39C12;
+}
+a:link	{
+
+}
+a:visited	{
+		
+}
+a:active	{
+		
+}
+a:hover		{
+	background-color: #F1C40F;
+}

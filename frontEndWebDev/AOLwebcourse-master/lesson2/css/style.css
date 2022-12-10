@@ -1,0 +1,66 @@
+/*This is a comment, which is used to clarify lines of CSS code.*/
+body {
+	font-family: helvetica;
+	background-color: #34495E;
+}
+h1	{
+	font-size: 28px;
+	color: #FFFFFF;
+}
+h2, h3	{
+	font-size: 18px;
+	color: #1ABC9C;
+}
+p	{
+	font-family: verdana;
+	font-size: 14px;
+	color: #ECF0F1;
+	width: 960px;
+	padding: 15px;
+	margin: 10px;
+	border: 5px solid lime;
+}
+ol 	{
+	font-family: monospace;
+	color: #BDC3C7;
+	font-weight: 900;
+	font-style: bold;
+}
+a 	{
+	color: #F39C12;
+}
+a:link	{
+		
+}
+a:visited	{
+		
+}
+a:active	{
+		
+}
+a:hover		{
+	background-color: #F1C40F;
+}
+#container {
+	border: 5px dotted red;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	/*padding: 20px 40px 20px 10px;*/ /*top right bottom left*/
+	/*padding: 20px 40px;*/ /*this can be applied to both margin and padding properties*/
+}
+#content {
+	margin: 30px;
+	padding: 20px 40px;
+	border: 5px dotted red;
+	background-color: #E8F7F8;
+	background-image: url(../images/alice.gif);
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+#image {
+	width: 250px;
+	margin: 0 auto;
+	padding: 10px;
+	border: 5px solid blue;

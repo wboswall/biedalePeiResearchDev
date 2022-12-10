@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Audio</title>
+
+<style>
+
+body {
+	padding: 20px 50px;
+	font-family: "Trebuchet MS", sans-serif;
+	color: #333;
+}
+
+video {
+	clear: both;
+}
+
+input {
+	display: block;
+}
+
+</style>
+
+<script>
+	function playPause() {
+		var myAudio = document.getElementsByTagName('audio')[0];
+		if(myAudio.paused)
+		myAudio.play();
+		else
+		myAudio.pause();
+	}
+</script>
+</head>
+
+<body>
+	<h1>&ldquo;I Wanna Go&rdquo; by Use to Abuse</h1>
+	<audio autoplay controls>  
+	    <source src="iwannago.ogg" />  
+	    <source src="iwannago.mp3" />  
+		Browser not supported.
+	</audio>
+	
+	<input type=button onclick="playPause()" value="Play/Pause" tabindex="0" />
+	
+</body>
+</html>	
+
+	
+	
+	

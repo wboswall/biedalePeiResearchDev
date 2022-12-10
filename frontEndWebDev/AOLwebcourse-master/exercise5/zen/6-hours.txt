@@ -1,0 +1,9 @@
+Hours
+
+Our center offers around-the clock support for our guests.
+
+Sign-in and sign-out hours are from 10am to 4pm, every day.
+
+We are available to take phone calls on weekdays from 10am to 4pm.
+
+[All pages must have at least one image. Experiment with emphasis or span styles on this page. The Hours page should connect to hours.html]

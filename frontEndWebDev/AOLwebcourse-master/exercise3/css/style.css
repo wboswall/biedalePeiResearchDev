@@ -1,0 +1,172 @@
+/*Books n' Beans CSS Created Nov 9 2019*/
+body {
+	background-color: #A18E8E;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 23px; 
+	font-style: normal; 
+	font-variant: normal; 
+	letter-spacing: 3px; 
+	font-weight: 700; 
+	line-height: 32.5px; 
+	color: #000;
+	margin: 0;
+	padding: 15px;
+}
+p {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 14px; 
+	font-style: italic; 
+	font-variant: normal; 
+	font-weight: 800; 
+	line-height: 21px; 
+	color: #000;
+	margin-top: 1em;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+ol{
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 12px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 600; 
+	line-height: 17px; 
+	color: #000;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+	margin-left: 30px;
+	padding: 0;
+}
+ul {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 12px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 600; 
+	line-height: 17px; 
+	color: #000;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+	margin-left: 30px;
+	padding: 0;
+}
+ul a{
+	text-decoration: none;
+}
+a {
+	text-decoration: none; 
+	color: #690;
+}
+a:hover {
+	color: #CBE86B;
+}
+#container {
+	background-color: #fff;
+	width: 960px;
+	margin: 0 auto;
+}
+#header {
+	background-color: #553830;
+	height: 100px;
+	clear: both;
+}
+#header h1{
+	color: #fff;
+	font-weight: 900;
+	font-size: 40px;
+	
+}
+#main	{
+	background-color: #fff;
+}
+#menu {
+	float: left;
+	width: 200px;
+}
+#menu ul{
+	list-style-type: none;
+	font-size:23px;
+	font-style:normal;
+	font-weight:600;
+	padding-top: 10px;
+	line-height: 1.5em;
+}
+.menubox {
+	border: 5px solid #999;
+	height: 570px;
+	width: 360px;
+	margin-top:80px;
+	margin-left: 90px;
+	background-color: #948383;
+}
+.menubox p {
+	font-size: 20px; 
+	font-style: bolder; 
+	font-variant: normal; 
+	font-weight: 800; 
+}
+.menubox ul {
+	list-style-type: none;
+	font-size:16px;
+	font-style:normal;
+	font-weight:600;
+	padding: 0;
+}
+img.gallery {
+	width: 300px;
+	float: left;
+	padding: 10px 10px 20px 20px;
+}
+#footer .social {
+	width:15px;
+	float: center;
+	padding-right: 10px;
+}
+#address {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 23px; 
+	font-style: bolder; 
+	font-variant: initial; 
+	font-weight: 800; 
+}
+#phone {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 23px; 
+	font-style: bolder; 
+	font-variant: small-caps; 
+	font-weight: 800; 
+}
+#question {
+	font-style: bolder;
+	font-weight: 900;
+	font-size: 21px;
+}
+#content {
+	float: right;
+	width: 720px;
+	height: 800px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	background-color: #fff;
+}
+#content p {
+	font-size: 17px;
+}
+#content .feedback{
+	font-size: 15px;
+}
+#footer {
+	background-color: #E3CFB6; 
+	text-align: center;
+	height: 105px;
+	clear: both;
+	padding-bottom: 15px;
+}
+#footer p { 
+	margin: 0;
+	padding: 15px;
+}

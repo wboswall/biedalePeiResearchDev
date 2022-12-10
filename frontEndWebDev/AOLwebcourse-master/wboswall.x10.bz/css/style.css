@@ -1,0 +1,87 @@
+/*CSS*/
+body {
+	background-color: #948E8E;
+}
+h1 {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 38px; 
+	font-style: normal; 
+	font-variant: normal; 
+	letter-spacing: 3px; 
+	font-weight: 600; 
+	line-height: 2.0em; 
+	color: #000; 
+	margin:
+}
+h2 {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 32px; 
+	font-style: normal; 
+	font-variant: normal; 
+	letter-spacing: 2px; 
+	font-weight: 700; 
+	line-height: 2.0em; 
+	color: #000;
+}
+p {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 18px;  
+	font-style: italic; 
+	font-variant: normal; 
+	font-weight: 800; 
+	line-height: 3.0em; 
+	color: #000;
+}
+ol{
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 18px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 600;  
+	color: #000; 
+}
+ol li {
+	line-height: 3.0em;
+}
+ul {
+	font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+	font-size: 18px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 600; 
+	line-height: 3.0em; 
+	color: #000; 
+}
+ul li {
+	line-height: 3.0em;
+}
+ul a{
+	text-decoration: none;
+}
+a {
+	text-decoration: none; color# 690;
+}
+a:hover {
+	color: #CBE86B;
+}
+#container {
+	width: 960px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #FFF;
+}
+#header {
+	background-color: #FFF;
+}
+#main	{
+	background-color: #FFF;
+}
+#menu {
+	background-color: #FFF;
+}
+#menu ul{
+	list-style-type:none;
+}
+#footer {
+	background-color: #FFF; text-align: center;
+}

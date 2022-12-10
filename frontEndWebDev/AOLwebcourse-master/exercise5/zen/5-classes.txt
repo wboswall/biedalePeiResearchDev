@@ -1,0 +1,11 @@
+Classes
+
+This season, our class offering is more vibrant than ever! Our resident teachers and visiting scholars have put together an incredible class schedule that will leave you wishing there were more hours in the day.
+
+Weekdays, 5am-7am: Mountaintop Meditation - Welcome the dawn with us!
+Weekends 8am-10am: Fasting 101 - Skip out on breakfast to learn safe and healthy fasting techniques!
+Mon, Tue, Wed 9am-12pm: Speaking with Silence - In this silent class, learn to speak without words.
+Tue, Thu 2pm-4pm: Nature Walk - Rekindle your connection with nature on this beautiful hike.
+Weekdays, 7pm-10pm: Candlelight Concepts - Like the candle flame, you will emit heat and light.
+
+[All pages must have at least one image. Experiment with list and span styles on this page for clear formatting. The Classes page should connect to classes.html]

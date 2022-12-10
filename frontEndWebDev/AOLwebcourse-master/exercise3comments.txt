@@ -1,0 +1,12 @@
+I couldn't put my link on the bottom like I did in exercise 2 because of the descendant selector #footer p because it pushed the a link anchor under the footer.  I did try the footer a but it did nothing.  I had to make a design choice/sacrifice and remove it and have put it instead below the direct link for exercise 3.  
+
+http://wboswall.x10.bz/exercise3/index.html
+http://wboswall.x10.bz/ for Reflections on Lesson 3
+
+I do realize it takes away some navigation from the person but I did try to implement but for some reason the descendant selector #footer a just didn't want to work. 
+I can't believe I spent a long time fighting with the ordered list in making it align with the margin because I then put the padding to 0. Then I had to move on because it's amazing on how much time can fly by when fighting with a small feature like the margin setting.  I  also put the padding for the unordered list to 0 for uniformity.
+There is minimal vertical scrolling for viewing the footer.  I tried to shrink the size of the page down to eliminate scrolling. I tried to see if the other divs needed to be shrunk but couldn't find any.  So I had to settle for some vertical scrolling.  
+
+
+Had to make the footer an extra 5px larger to accommodate the social media icons that I choose to add some flare to the site.  
+The exercise only said to use one but I decided to add one more flare.  I put some patron testimonials to the home page since that would be the first page that someone would see.  

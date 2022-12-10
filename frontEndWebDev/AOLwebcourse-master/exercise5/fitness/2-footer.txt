@@ -1,0 +1,18 @@
+﻿
+
+Footer:
+
+Thank you for visiting our website.
+Lift This! Fitness
+1128 Rapscal Street, L.A.
+310-555-4320 
+
+Sidebar:
+
+News: Starting next month, we will be hosting a weekly protein potluck! Look up some recipes in advance! Find out more information here. [https://en.wikipedia.org/wiki/Potluck]
+
+Our congratulations to Lynda Pells, our longtime member, for qualifying for the national weightlifting competition! Take home the gold, Lynda!
+
+Just a reminder to all members: We don’t allow selfies or any other kind of photography in our gym. Please read up on this subject here. [https://en.wikipedia.org/wiki/Selfie]
+
+[In the sidebar, the word “here” should be wrapped in hyperlinks and should link out to the correct page.]

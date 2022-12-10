@@ -1,0 +1,23 @@
+For part 1 of the assignment, I did get along just fine once I started the assignment and took my time building the index.html page and other subsequent html pages.  Also took time in testing them after to make sure that each page and it's external links rendered perfectly as expected.  
+I also decided to further practice on what I learned in lesson 1 by creating my own website (http://wboswall.x10.bz/) through x10 hosting platform  that I found through one of the lesson 1 videos.  The x10 hosting platform was transparent and really easy to set up a website unlike the other ones on the handout that didn't directly show on how to obtain a free hosting domain instead they were looking to sell a domain to me.  
+
+
+Part 1 "Books n' Beans" Please visit: http://wboswall.x10.bz/exercise1/index.html (Links to an external site.) to view Exercise 1: Books n' Beans website Since this drop box's text box formatting is impossible to display properly formatted html code, I have decided to attach the Books n' Beans website in a folder so the source code can be viewed. To view the "Exercise 1 Analysis" please see my home page: http://wboswall.x10.bz/index.html (Links to an external site.)
+
+Answers to Exercise 1 part 2 "Scavenger Hunt" Website URL used for part 2: https://www.timothyscharlottetown.com (Links to an external site.) In addition to looking at the rendered website, I also looked at the site's source page to answer the following questions.
+
+1. What's one example of heading text on this Web site? (Hint: heading text refers to heading tags like, not to the section of the document) One example of heading text is: The finest rewards in Charlottetown This is on the top part of the https://www.timothyscharlottetown.com/rewards (Links to an external site.) webpage.
+
+2. What's one example of paragraph text on this Web site? One example of paragraph text is the contact information that's at the bottom: TEL 902-628-8503 ADDRESS 154 Great George Street Charlottetown PEI, C1A 4K6.  
+
+3. What's one example of an ordered or unordered list? An example of an unordered list would be the menu bar: Home The Cafe Timothy's Evening Specials Contact Us Rewards Services Bean Shop flavored Light & Medium Blends Dark Roasts Feature Roasts Fair- Trade & Organic Cart
+
+4. What are three examples of anchors link on this Web site? The following three examples of anchor links on https://www.timothyscharlottetown.com (Links to an external site.) are:
+
+i) the company's logo in the upper left hand corner that has an embedded anchor link to the home page.
+
+ii) The menu in the upper right hand corner that displays a good use of anchor links
+
+iii) The external URL to Facebook With the Facebook URL anchor built into the image of the word "Facebook" that's in blue. (On the main home page.)
+
+5. Are any images on the page also clickable links? The company's logo in the upper left hand corner is clickable but also there others on their coffee shop webpage: https://www.timothyscharlottetown.com/shop (Links to an external site.) There there are images of variety of coffee beans that are clickable which has its own dedicated web page.

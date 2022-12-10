@@ -1,0 +1,27 @@
+body {
+	margin: 10px;
+	padding: 0;
+	width: 800px;
+	font: 0.9/1.5em Verdana, sans-serif;
+	background-color: #CAD6D7;
+}
+#header {
+	margin-left: 10px;
+}
+#content {
+	
+}
+#menu {
+	float: right;
+	width: 150px;
+	margin-right: 1.67em;
+	padding: 30px;
+}
+#main {
+	float: left;
+	width: 440px;
+	padding: 10px 1 em;
+}
+#footer {
+	
+}
