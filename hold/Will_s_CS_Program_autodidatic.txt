@@ -1,0 +1,97 @@
+William's Computer Science Autodidatic Program
+PixaBay
+iconfinder
+Smashing magazine
+Own Picture library
+Own Video library
+Own Audio library
+
+Level 1 Freshman Web Development
+HTML5
+CSS3
+ECMAScript (JavaScript)
+***MOSTLY WILL COVER ALL OF THE HTML5 AND CSS3 AND A GENTLE 
+INTRODUCTION OF ECMAScript AKA JAVASCRIPT***
+Set up the wboswall.ca in the following:
+remove the old blog and move it to blog.wboswall.ca
+create store.wboswall.ca ? research this more further
+connect wboswallDotCa repo in the git page on cpanel
+setup the myphpadmin with webassembly and cgi
+Single Webpage That includes HTML5, and CSS3
+MUST INCLUDE THE FOLLOWING:
+-home pg
+-contact pg
+-about pg
+-legal pg
+-terms and conditions pg
+
+****Can reuse this template for the next projects to speed up development but copy the template instead.  The template is just a starter.****
+Create HTML5 template and CSS3 class library 
+Also create a small JavaScript engine 
+(The Javascript engine is the main logic to make the website run smoothly.  This is in one file but may be in several js files in their appropriate folders -or not ;-D)
+Also don't worry about the tiny engine size don't worry because during the next levels, the js engine will increase in size and even after the finale of the web dev program.  
+
+little Website built with HTML5, CSS3, ECMAScript 
+
+MUST INCLUDE THE FOLLOWING
+-home pg
+-contact pg
+-about pg
+-legal pg
+-terms and conditions pg
+-sitemap pg
+
+Level 2 Sophmore Web Development Responsive web design
+HTML5
+CSS3
+ECMAScript
+	Typescript
+	Dart -use Dartium and dart to js
+	Learn the following to further programming learning and start with VB
+	
+Perl
+VB.NET
+Python
+C Language
+Ruby
+
+Project: Build a website for a Music Concert ticket company called MusicForU must include z-index for the pay wall. 
+Must also have pictures with easy scrolling and when a customer fills out the form and able to email them their ticket 
+with their entered information and a ticket number 7 digit alpha numeric that is randomized.
+
+
+Level 3 Senior Web Development Building on Responsive web design
+PHP 
+MYSQL
+**Book version maybe outdated but that's okay during learning. That's where updating is very important to make sure that the web app or site or web software (CMS) is update to date and stable and very secure.  Go to the official PHP website for the up to date version of the language.  ***
+
+Template Website built with HTML5, CSS3, ECMAScript, PHP, MYSQL 
+****Fork the Earlier template and alter that for this template*** Then use this template for the following projects.  
+Projects:
+First Challenge: build a html css js site with perl - use the template to speed up the process.  
+
+***Use the PHP template site for the following***
+
+Single Webpage 
+Personal Website 
+Hobby website
+start-up website
+Small business
+Medium size business
+large business
+Coporate website
+E-Commerce site
+Blog
+Message boards
+
+Level 4 Web assembly with Rust, C, CPP
+WebAssembly might have to do a search on duckduckgo
+	Rust, C, CPP see books
+	
+	Projects:
+	build web browser engine.  
+
+
+
+
+
