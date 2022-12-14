@@ -1,2 +1,0 @@
-# wboswalldotca
- my official website
