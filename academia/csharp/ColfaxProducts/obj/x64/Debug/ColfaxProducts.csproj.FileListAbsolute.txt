@@ -1,0 +1,10 @@
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\x64\Debug\ColfaxProducts.exe.config
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\x64\Debug\ColfaxProducts.exe
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\x64\Debug\ColfaxProducts.pdb
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Debug\ColfaxProducts.csproj.AssemblyReference.cache
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Debug\ColfaxProducts.Form1.resources
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Debug\ColfaxProducts.Properties.Resources.resources
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Debug\ColfaxProducts.csproj.GenerateResource.cache
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Debug\ColfaxProducts.csproj.CoreCompileInputs.cache
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Debug\ColfaxProducts.exe
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Debug\ColfaxProducts.pdb

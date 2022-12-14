@@ -1,0 +1,13 @@
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\x64\Release\ColfaxProducts.exe.config
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\x64\Release\ColfaxProducts.exe.manifest
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\x64\Release\ColfaxProducts.application
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\x64\Release\ColfaxProducts.exe
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\x64\Release\ColfaxProducts.pdb
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Release\ColfaxProducts.Form1.resources
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Release\ColfaxProducts.Properties.Resources.resources
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Release\ColfaxProducts.csproj.GenerateResource.cache
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Release\ColfaxProducts.csproj.CoreCompileInputs.cache
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Release\ColfaxProducts.exe.manifest
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Release\ColfaxProducts.application
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Release\ColfaxProducts.exe
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\x64\Release\ColfaxProducts.pdb
