@@ -1,0 +1,17 @@
+/*Project MaplePak v0.0.0.1devEd
+ *Date Created: 12/15/2022 12:52PM
+ *Date Modified: 12/15/2022 12:53PM
+ *Official Version: V0.0
+ *Project Purpose: MaplePak takes the stress out of styling and functionality by simply letting
+ * 				   the user efficiently and quickly a website by just concentrating on the content.  
+ * 				   However, will have to choose one's own colour scheme for own website. 
+ *mapleMain.css file purpose:MaplePak's CSS was written in SCSS and compiled into css.  This is the main css file links are placed.  
+*/
+body 
+{
+	font-family:Times New Roman, Serif;
+	font-size: 10em;
+	color:#FFFFFF;
+	background-color;
+	
+}
