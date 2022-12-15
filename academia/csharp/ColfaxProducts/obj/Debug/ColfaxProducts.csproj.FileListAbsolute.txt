@@ -1,0 +1,10 @@
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\Debug\ColfaxProducts.exe.config
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\Debug\ColfaxProducts.exe
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\bin\Debug\ColfaxProducts.pdb
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\Debug\ColfaxProducts.csproj.AssemblyReference.cache
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\Debug\ColfaxProducts.Form1.resources
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\Debug\ColfaxProducts.Properties.Resources.resources
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\Debug\ColfaxProducts.csproj.GenerateResource.cache
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\Debug\ColfaxProducts.csproj.CoreCompileInputs.cache
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\Debug\ColfaxProducts.exe
+C:\Users\wbosw\GitHub\academia\csharp\ColfaxProducts\obj\Debug\ColfaxProducts.pdb

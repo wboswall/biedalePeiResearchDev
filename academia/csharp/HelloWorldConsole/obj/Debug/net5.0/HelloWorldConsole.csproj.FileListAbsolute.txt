@@ -1,0 +1,16 @@
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.exe
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.deps.json
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.runtimeconfig.json
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.runtimeconfig.dev.json
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.dll
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\bin\Debug\net5.0\ref\HelloWorldConsole.dll
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.pdb
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.csproj.AssemblyReference.cache
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.AssemblyInfoInputs.cache
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.AssemblyInfo.cs
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.dll
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\ref\HelloWorldConsole.dll
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.pdb
+C:\Users\wbosw\GitHub\academia\csharp\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.genruntimeconfig.cache
