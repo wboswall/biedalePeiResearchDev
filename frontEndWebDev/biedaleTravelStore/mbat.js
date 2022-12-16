@@ -1,0 +1,1 @@
+alert("Mbat.js");
