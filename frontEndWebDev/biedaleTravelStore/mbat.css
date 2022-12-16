@@ -1,0 +1,17 @@
+body
+{
+    color:#FBF4F2;
+    font-family:'Courier New', Courier, monospace;
+    font-size:5em;
+    margin: 50px; padding: 50px; border: 50px;
+    background-color:#BCCFE7;
+}
+p
+{
+    background-color: #C2D98C;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+    margin: 50px; padding:50px; border: 50px;
+
+
+}
