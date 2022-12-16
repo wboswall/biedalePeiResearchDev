@@ -9,7 +9,16 @@
  CSS was written in SCSS and compiled into css.  This is the main css file links are placed. 
 Creator: William E Boswall  
 */
-function displayBox()
+function createParagraph()
 {
-	document.getElementById.innerHTML="Hello";	
+	const para = document.createElement('p');
+	para.textContent = "You clicked the button!";
+	document.body.appendChild(para);
+}
+
+const buttons = document.querySelectorAll('button');
+
+for (const button of buttons) 
+{
+	button.addEventListener('click', createParagraph);
 }
